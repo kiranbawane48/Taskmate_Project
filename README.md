@@ -7,6 +7,5 @@
 
 **Demo:**
 
-
-![image](https://github.com/kiranbawane48/Taskmate_Project/assets/100428197/cccfb8f7-78e3-472e-a514-4da110b67cf0)
+![image](https://github.com/kiranbawane48/Taskmate_Project/assets/100428197/279e84ea-22a8-481d-82e6-3bf5ff6b4225)
 
